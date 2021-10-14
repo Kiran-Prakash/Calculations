@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=03cb0e4a_002Dd88d_002D4e0e_002Db595_002D7bef60f75580/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestAdd" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::32073B9D-7843-4CDF-8A0F-9F2512D2E85C::.NETCoreApp,Version=v3.1::Calculations.Test.NamesTest.MakeFullNameTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::32073B9D-7843-4CDF-8A0F-9F2512D2E85C::.NETCoreApp,Version=v3.1::Calculations.Test.NamesTest.NickName_MustNull&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::32073B9D-7843-4CDF-8A0F-9F2512D2E85C::.NETCoreApp,Version=v3.1::Calculations.Test.NamesTest.MakeFullName_AlwaysReturnValue&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
